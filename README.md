@@ -1,3 +1,3 @@
 # nyandok.github.io
-blog_repo
+blog_repo  
 gd
