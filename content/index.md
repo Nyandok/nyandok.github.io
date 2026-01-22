@@ -1,4 +1,7 @@
 ---
 title: Willkommen Sie!
 ---
-Das hier ist mein blog
+Guten Morgen
+![[miku.png]]
+
+[[Test]]
